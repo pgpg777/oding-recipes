@@ -1,0 +1,14 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+.ex{
+    color: green;
+}
+.ex2{
+    color: brown;
+}
+*{
+    font-weight: 600;
+    font-size: 1000;
+}
