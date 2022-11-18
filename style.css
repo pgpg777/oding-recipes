@@ -1,11 +1,16 @@
 h1{
     color: blue;
     text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    
 }
 .ex{
+    text-align: left;
     color: green;
 }
 .ex2{
+    text-align: center;
     color: brown;
 }
 *{
@@ -16,3 +21,27 @@ h1{
 body{
     background-color: aquamarine;
 }
+h2{
+    color:blue;
+    background-color: orange;
+    text-align: center;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    height: auto;
+    width: 400px;
+}
+  
+  /* rule 2 */
+  #subsection  {
+    color: red;
+    background-color: yellow;
+    text-align: center;
+  }
+  .main{
+    color:yellow;
+    background-color: red;
+    text-align: center;
+  }
